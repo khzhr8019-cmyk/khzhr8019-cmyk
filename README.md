@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    🌸 <b>Computer Science Student @ ESI-SBA</b> 🌸
+     <b>Computer Science Student @ ESI-SBA</b> 
   </p>
 
   <!-- Live Typewriter Animation -->
@@ -18,18 +18,16 @@
 
 ---
 
-### 🌸 About Me
+###  About Me
 
-> *"Designing intuitive digital experiences while engineering smart automated systems."*
-
-* 🎨 **UI/UX Design (Primary Focus):** User Research, Wireframing, Figma, Design Systems, High-Fidelity Prototyping & Usability.
-* 💻 **Web Development (Primary Focus):** Crafting sleek, responsive interfaces using **HTML5**, **CSS3**, and **JavaScript**.
+* 🎨 **UI/UX Design :** User Research, Wireframing, Figma, Design Systems, High-Fidelity Prototyping & Usability.
+* 💻 **Web Development :** Crafting sleek, responsive interfaces using **HTML5**, **CSS3**, and **JavaScript**.
 * 🤖 **AI & Automation (Learning):** Building automated workflows with **n8n** and experimenting with autonomous agents.
 * 🔐 **Cybersecurity (Learning):** Exploring web application security, defensive concepts, and network security basics.
 
 ---
 
-### 🛠 Tech & Tools
+Tech & Tools
 
 <table align="center" width="100%">
   <tr>
@@ -60,7 +58,7 @@
 
 ---
 
-### 📈 GitHub Activity
+📈 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=khzhr8019-cmyk&theme=rose_pine&background=0d1117&border=0d1117&hide_border=true&sideNums=ffb6c1&currStreakLabel=ffb6c1" width="100%" alt="GitHub Activity Streak" />
