@@ -28,7 +28,8 @@
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khzhr8019-cmyk&show_icons=true&theme=rose_pine&hide_border=true&title_color=ffb6c1&icon_color=ffb6c1" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khzhr8019-cmyk&layout=compact&theme=rose_pine&hide_border=true&title_color=ffb6c1" alt="Top Languages" width="48%" />
-</div>
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khzhr8019-cmyk&theme=rose_pine&hide_border=true&background=00000000&sideNums=ffb6c1&currStreakLabel=ffb6c1" width="400" alt="GitHub Streak" />
+</p>
