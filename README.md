@@ -71,8 +71,7 @@
 **SYSTEM DIAGNOSTICS**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khzhr8019-cmyk&show_icons=true&theme=rose_pine&bg_color=0d1117&hide_border=true&title_color=ffb6c1&icon_color=ffb6c1&text_color=e0def4&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khzhr8019-cmyk&theme=rose_pine&hide_border=true&background=0d1117&sideNums=ffb6c1&currStreakLabel=ffb6c1" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khzhr8019-cmyk&theme=react-dark&bg_color=0d1117&color=ffb6c1&line=ffb6c1&point=ffffff&hide_border=true" width="100%" />
 </p>
 
 ---
