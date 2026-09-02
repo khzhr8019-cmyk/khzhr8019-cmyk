@@ -24,7 +24,8 @@
 <br>
 
 > *"Design is the invisible bridge between complex systems and human intuition."*
-> ├── 🎨 Figma Systems       : Component Libraries, Glassmorphism & High-Fidelity Prototypes
+
+├── 🎨 Figma Systems       : Component Libraries, Glassmorphism & High-Fidelity Prototypes
 ├── 💻 Web Architecture   : HTML5, CSS3, JavaScript (ES6+ Responsive Systems)
 └── 👁️ Core Focus          : Micro-interactions and conversion-focused UX
 
@@ -61,10 +62,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,html,css,js,python,bash,linux,github&theme=dark&perline=8" />
 </p>
-
----
-
----
 
 ---
 
