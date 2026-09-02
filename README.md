@@ -5,7 +5,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=FATIMA%20ZAHRA%20.%20Kh&fontSize=38&fontColor=ffb6c1&stroke=ffb6c1&strokeWidth=1&animation=twinkling" width="100%" />
   </a>
 
-  <h3>🌸 Computer Science Student @ ESI-SBA</h3>
+  <h3> Computer Science Student @ ESI-SBA</h3>
 
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=>>+UI%2FUX+Design+%2B+Web+Development;>>+Exploring+n8n+Automation+%2B+AI+Agents;>>+Learning+Cybersecurity+Foundations" alt="Typing SVG" />
@@ -16,8 +16,8 @@
 ---
 
 ### 🌸 About Me
-* 🎨 **UI/UX Design (Main Focus):** User Research, Wireframing, Figma, Design Systems, Prototyping & Usability Testing.
-* 💻 **Web Development (Main Focus):** Building clean, modern, and responsive interfaces with **HTML5**, **CSS3**, and **JavaScript**.
+* 🎨 **UI/UX Design :** User Research, Wireframing, Figma, Design Systems, Prototyping & Usability Testing.
+* 💻 **Web Development :** Building clean, modern, and responsive interfaces with **HTML5**, **CSS3**, and **JavaScript**.
 * 🤖 **AI & Automation (In Progress):** Constructing automated workflow pipelines in **n8n** and experimenting with AI agents.
 * 🔐 **Cybersecurity (In Progress):** Learning the fundamentals of web security, defensive architecture, and network concepts.
 
