@@ -67,6 +67,6 @@ Tech & Tools
 ---
 
 <div align="center">
-  <p><i>✨ "Looking forward to creative collaborations!" — Fatima ✨</i></p>
+  <p><i> "Looking forward to creative collaborations!" </i></p>
   <sub>⚡ <b>Fatima Zahra . Kh</b> — CS Student @ ESI-SBA | UI/UX Design & Web Development</sub>
 </div>
