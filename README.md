@@ -68,7 +68,7 @@
 **SYSTEM DIAGNOSTICS**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khzhr8019-cmyk&theme=react-dark&bg_color=0d1117&color=ffb6c1&line=ffb6c1&point=ffffff&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=khzhr8019-cmyk&theme=rose_pine&background=0d1117&border=0d1117&hide_border=true&sideNums=ffb6c1&currStreakLabel=ffb6c1" width="100%" alt="GitHub Diagnostics" />
 </p>
 
 ---
