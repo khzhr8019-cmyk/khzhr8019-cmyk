@@ -64,20 +64,14 @@
 
 ---
 
+---
+
 **SYSTEM DIAGNOSTICS**
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="48%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=khzhr8019-cmyk&show_icons=true&theme=rose_pine&bg_color=0d1117&hide_border=true&title_color=ffb6c1&icon_color=ffb6c1&text_color=e0def4" width="100%"/>
-      </td>
-      <td width="48%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khzhr8019-cmyk&layout=compact&theme=rose_pine&bg_color=0d1117&hide_border=true&title_color=ffb6c1&text_color=e0def4" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khzhr8019-cmyk&show_icons=true&theme=rose_pine&bg_color=0d1117&hide_border=true&title_color=ffb6c1&icon_color=ffb6c1&text_color=e0def4&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khzhr8019-cmyk&theme=rose_pine&hide_border=true&background=0d1117&sideNums=ffb6c1&currStreakLabel=ffb6c1" width="48%" />
+</p>
 
 ---
 
