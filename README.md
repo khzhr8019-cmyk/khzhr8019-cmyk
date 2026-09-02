@@ -1,16 +1,20 @@
 <div align="center">
 
-  <!-- Glowing Minimal Header -->
+  <!-- Header Banner -->
   <a href="https://github.com/khzhr8019-cmyk">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=FATIMA%20ZAHRA&fontSize=42&fontColor=ffb6c1&stroke=ffb6c1&strokeWidth=1&animation=twinkling" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=FATIMA%20ZAHRA%20.%20Kh&fontSize=38&fontColor=ffb6c1&stroke=ffb6c1&strokeWidth=1&animation=twinkling" width="100%" />
   </a>
 
   <p align="center">
-    <code>UI/UX DESIGN</code> • <code>WEB DEVELOPMENT</code> • <code>AI AUTOMATION</code> • <code>CYBERSECURITY</code>
+    🎓 <b>Computer Science Student at ESI-SBA</b>
   </p>
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=FFB6C1&center=true&vCenter=true&width=550&lines=>>+Fusing+User+Experience+%2B+Autonomous+AI+Agents...;>>+Designing+Glassmorphic+Design+Systems...;>>+Hardening+Defensive+Cyber-Perimeters..." alt="Typing SVG" />
+    <code>🎨 UI/UX DESIGN</code> • <code>💻 WEB DEVELOPMENT</code> • <code>🤖 AI & AUTOMATION (IN PROGRESS)</code> • <code>🔐 CYBERSECURITY (IN PROGRESS)</code>
+  </p>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=>>+Computer+Science+Student+@+ESI-SBA...;>>+Specializing+in+UI%2FUX+Design+%2B+Web+Development...;>>+Learning+Autonomous+AI+Agents+%2B+n8n+Workflows...;>>+Exploring+Cybersecurity+%2B+Defensive+Systems..." alt="Typing SVG" />
   </p>
 
 </div>
@@ -19,60 +23,23 @@
 
 **NEURAL INTERFACE // CLICK TO UNLOCK MODULES**
 
-<details>
-<summary><b>🎨 [MODULE 01] :: UI/UX & Frontend Architecture</b></summary>
+<details open>
+<summary><b>🎨 [PRIMARY MODULE] :: UI/UX & Web Architecture</b></summary>
 <br>
 
-> *"Design is the invisible bridge between complex systems and human intuition."*
+> *"Building seamless human-computer experiences from research to code."*
 
-├── 🎨 Figma Systems       : Component Libraries, Glassmorphism & High-Fidelity Prototypes
-├── 💻 Web Architecture   : HTML5, CSS3, JavaScript (ES6+ Responsive Systems)
-└── 👁️ Core Focus          : Micro-interactions and conversion-focused UX
+```text
+├── 🎨 UI/UX Systems      : User Research, Wireframing, Figma, Design Systems & Prototyping
+├── 💻 Web Architecture   : HTML5, CSS3, JavaScript (ES6+), Responsive UI Engineering
+└── 👁️ Core Focus          : Micro-interactions, Accessibility & User-Centered Interfaces
+"Building automated workflows and experimenting with agentic tools."
 
-</details>
+Plaintext
+├── 🔄 n8n Orchestration  : Multi-stage automated workflow pipelines & webhooks
+└── 🧠 AI Agents          : Exploring autonomous agent architectures & LLM integrations
+"Developing defensive security knowledge and network basics."
 
-<details>
-<summary><b>🤖 [MODULE 02] :: Autonomous AI & Workflow Engine</b></summary>
-<br>
-
-> *"Building self-orchestrating agentic workflows that eliminate manual friction."*
-
-├── 🔄 n8n Orchestration  : Multi-stage automated pipelines & custom webhooks
-├── 🧠 AI Swarms          : Autonomous Agent architectures & LLM integrations
-└── ⚡ Integration Layer   : Connecting data streams directly to AI endpoints
-
-</details>
-
-<details>
-<summary><b>🔐 [MODULE 03] :: Cyber Defense & Ethical Hacking</b></summary>
-<br>
-
-> *"Understanding the exploit vector to engineer unbreakable perimeters."*
-
-├── 🛡️ Web Security        : OWASP Top 10 mitigation, payload analysis & hardening
-├── 📡 Network Defense     : Traffic analysis, packet inspection & firewall logic
-└── 🔍 Vulnerability Lab   : Ethical penetration testing concepts & system audits
-
-</details>
-
----
-
-**UNIFIED TECH MATRIX**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,python,bash,linux,github&theme=dark&perline=8" />
-</p>
-
----
-
-**SYSTEM DIAGNOSTICS**
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=khzhr8019-cmyk&theme=rose_pine&background=0d1117&border=0d1117&hide_border=true&sideNums=ffb6c1&currStreakLabel=ffb6c1" width="100%" alt="GitHub Diagnostics" />
-</p>
-
----
-
-<div align="center">
-  <sub>⚡ <b>Fatima Zahra</b> — Executing at the intersection of Design, Intelligence, and Security.</sub>
-</div>
+Plaintext
+├── 🛡️ Web Security        : Learning OWASP Top 10 vulnerabilities & system hardening
+└── 📡 Network Defense     : Fundamentals of packet analysis, traffic, & system securi
