@@ -1,15 +1,34 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header&text=Hi%20there,%20I'm%20Fatima%20Zahra🌸&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<!-- DYNAMIC WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35&height=180&section=header&text=FATIMA%20ZAHRA//OS_v4.0&fontSize=26&fontColor=ffb6c1&animation=twinkling&fontAlignY=38" width="100%" />
+  ### 🎨 UI/UX Designer | 💻 Web Developer | 🤖 AI & Automation | 🔐 Cyber Enthusiast
+</div>
 
-<!-- LIVE TYPING TERMINAL HEADER -->
+---
+
+### 🌸 About Me
+* 🎨 **UI/UX Design:** Designing intuitive, user-centered interfaces and wireframes in Figma.
+* 💻 **Web Development:** Building responsive, sleek web apps with **HTML5**, **CSS3**, and **JavaScript**.
+* 🤖 **AI Agents & Automation:** Constructing automated workflows in **n8n** and experimenting with autonomous AI agents.
+* 🔐 **Cybersecurity:** Learning web security basics, network defense, and ethical hacking concepts.
+
+---
+
+### 🛠 Tech & Tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FFB6C1?style=for-the-badge&logo=openai&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-4B0082?style=for-the-badge&logo=shield&logoColor=white)
+
+---
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=FFB6C1&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%8E%A8+Architecting+Glassmorphic+UI%2FUX+Interfaces...;%F0%9F%A4%96+Deploying+Autonomous+AI+Agents+%26+n8n+Swarms...;%F0%9F%94%90+Simulating+Defensive+Cyber-Systems+%26+Ethical+Hacks...;%F0%9F%92%BB+Coding+High-Performance+Web+Architecture..." alt="Typing SVG" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khzhr8019-cmyk&theme=rose_pine&hide_border=true&background=00000000&sideNums=ffb6c1&currStreakLabel=ffb6c1" width="400" alt="GitHub Streak" />
 </p>
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│  SYSTEM STATUS: ONLINE           │ ACCESS LEVEL: ROOT (CYBER/AI)       │
-│  OPERATIONAL NODE: FATIMA ZAHRA  │ ARCHITECTURE: DESIGN x AUTOMATION   │
-└────────────────────────────────────────────────────────────────────────┘
+i want it to bre more mind boggling and non seen before
